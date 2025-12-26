@@ -34,8 +34,7 @@ Functions keep code **clean**, **organized**, and **reusable**, so you don’t r
 
 ---
 
-##  Final code (copy/paste into `functions_practice.py`)
-This version matches your job aid exactly and stays beginner-friendly.
+##  Code
 
 ```python
 # Step 3: Functions help clean up repeated code because you write the steps once,
