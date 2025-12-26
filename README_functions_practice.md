@@ -34,7 +34,7 @@ Functions keep code **clean**, **organized**, and **reusable**, so you don’t r
 
 ---
 
-## ✅ Final code (copy/paste into `functions_practice.py`)
+##  Final code (copy/paste into `functions_practice.py`)
 This version matches your job aid exactly and stays beginner-friendly.
 
 ```python
@@ -81,7 +81,7 @@ print(f"The sum is {sum_result} and the product is {product_result}.")
 
 ---
 
-## Explain Like You’re 5 👶 (super simple)
+## Explanation
 Imagine you have a **robot helper**.
 
 - A **function** is like giving the robot a **tiny instruction card**.
@@ -156,15 +156,7 @@ Imagine you have a **robot helper**.
 
 ---
 
-## Notes about your uploaded script (quick fix list)
-Your uploaded file already shows the right idea (functions + calls + returning values). fileciteturn3file0L1-L30  
-To match the job aid **exactly**, these were the main differences:
-- Step 3 asked for `greet_user()` with **no arguments**, but your version used `greet_user(name)`. fileciteturn3file0L3-L6  
-- Step 5 asked for multiplying **two** numbers, but your `multiply_numbers` used **three**. fileciteturn3file0L21-L26  
+## Screenshot of my work
 
-The “Final code” section above matches the checklist.
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5d5747e1-7bd4-481d-a772-25f8301a318a" />
 
----
-
-## Author
-David Macias
